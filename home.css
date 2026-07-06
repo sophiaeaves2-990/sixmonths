@@ -1,7 +1,23 @@
 h1 {
-  font: "baskerville"
+  text-align: center;
+  font-family: "Bodoni Moda";
+  font-size: xx-large
 }
 
-p {
-  font: "baskerville"
+a {
+  text-align: center;
+  font-family: "Bodoni Moda";
+  font-size: large
+}
+
+a:link, a:visited {
+  background-color: #edb4bf;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #eba0ae;
 }
