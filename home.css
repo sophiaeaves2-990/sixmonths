@@ -4,6 +4,10 @@ h1 {
   font-size: 100px
 }
 
+#link {
+  text-align: center;
+}
+
 a {
   text-align: center;
   font-family: "Bodoni Moda";
